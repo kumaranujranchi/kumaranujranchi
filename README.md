@@ -37,10 +37,10 @@
   
   <p>
     <a href="https://github.com/kumaranujranchi">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumaranujranchi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anuj's Stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=kumaranujranchi&show_icons=true&theme=tokyonight&hide_border=true" alt="Anuj's Stats" />
     </a>
     <a href="https://github.com/kumaranujranchi">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaranujranchi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaranujranchi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </a>
   </p>
   
@@ -54,7 +54,7 @@
 <div align="center">
   <h3>🏆 Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kumaranujranchi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kumaranujranchi&theme=tokyonight&no-frame=true" alt="Trophies" />
   </a>
 </div>
 

@@ -84,12 +84,12 @@ I blend technical expertise with marketing prowess to create impactful digital s
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumaranujranchi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumaranujranchi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kumaranujranchi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumaranujranchi&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaranujranchi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaranujranchi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ I blend technical expertise with marketing prowess to create impactful digital s
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumaranujranchi&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kumaranujranchi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---

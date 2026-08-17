@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20👋,%20I'm%20Anuj%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20&%20Digital%20Marketer&descAlignY=60&descAlign=80" alt="Header" width="100%"/>
   <br/>
-  <img src="https://images.weserv.nl/?url=imagizer.imageshack.com/img922/613/BZg7LF.jpg&w=180&h=180&fit=cover&mask=circle" alt="Anuj Kumar" />
+  <img src="https://images.weserv.nl/?url=imagizer.imageshack.com/img922/613/BZg7LF.jpg&w=180&h=180&fit=cover&mask=circle" alt="Anuj" />
 </div>
 
 <div align="center">
